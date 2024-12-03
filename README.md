@@ -1,1 +1,1 @@
-# AI-Job-Trend-Insights
+# Diwali Sales Insights
